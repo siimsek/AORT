@@ -1,9 +1,7 @@
 requests
-pydig
 dnspython
-urllib3
+pydig
 argparse
+urllib3
 whois
-pytest-warnings
-python-Wappalyzer
-python-whois
+Wappalyzer
